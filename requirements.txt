@@ -4,3 +4,4 @@ plotly
 statsmodels
 numpy
 openpyxl
+scikit-learn
