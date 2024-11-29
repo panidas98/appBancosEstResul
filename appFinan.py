@@ -10,6 +10,8 @@ import numpy as np
 from plotly.subplots import make_subplots
 from sklearn.linear_model import LinearRegression
 
+#Nuevo cargue...
+
 # Función para cargar el CSV desde Google Drive
 @st.cache_data
 def load_data():
